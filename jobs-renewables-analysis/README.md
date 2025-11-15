@@ -12,6 +12,7 @@
 - [Results and Interpretation](#results-and-interpretation)
 - [Limitations](#limitations)
 - [References](#references)
+- [Repository Structure](#repository-structure)
 
 ---
 
@@ -137,3 +138,6 @@ However, the magnitude is lower when controlling for country differences and emp
 
 ## Repository Structure
 
+- [Exam_Renewables.pdf](https://github.com/alexandra-mihaescu/alexandra-data-portfolio/blob/main/jobs-renewables-analysis/Exam_Renewables.pdf) - Presentation of the project
+- [ProjectRenewable.R](https://github.com/alexandra-mihaescu/alexandra-data-portfolio/blob/main/jobs-renewables-analysis/ProjectRenewable.R) - R script with all the analysis steps
+- [data](https://github.com/alexandra-mihaescu/alexandra-data-portfolio/tree/main/jobs-renewables-analysis/data) - Folder containing the four datasets used for the analysis
