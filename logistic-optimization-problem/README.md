@@ -19,3 +19,13 @@ Key elements of the project:
 In particular, the project demonstrates skills in **problem structuring and reporting**.
 
 For full details, refer to the PDF presentation and the .data and .mod files
+
+---
+
+## Repository 📂 logistics-optimization
+│
+├── model.mod        # AMPL model file: variables, constraints, objective function
+├── data.dat         # AMPL data file: parameters and input values
+├── run.run          # AMPL run script: load model/data, solve, display results
+├── final-report.pdf # Complete project report with methodology and results
+
