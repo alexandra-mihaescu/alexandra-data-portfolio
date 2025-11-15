@@ -1,0 +1,19 @@
+set fornitori:= Oklahoma Macom Columbus;
+set clienti:= Tampa Riverside Tucson Wichita Orlando;
+
+param D: Tampa Riverside Tucson Wichita Orlando :=
+Oklahoma  950    1050     800     150    1000
+Macom     350    1800    1400     800     300
+Columbus  900    1800    1600     700     850;
+
+param Ur:= 
+Tampa      5
+Riverside  4 
+Tucson 	   4
+Wichita    11
+Orlando    8;
+
+param Ud:= 
+Oklahoma 19
+Macom    17
+Columbus 13;
