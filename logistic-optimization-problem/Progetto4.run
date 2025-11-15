@@ -1,0 +1,11 @@
+reset;
+
+model Progetto4.mod;
+
+data Progetto4.dat;
+
+solve;
+
+display distanza;
+
+display x; 
