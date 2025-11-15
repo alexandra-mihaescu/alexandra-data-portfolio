@@ -21,6 +21,10 @@ Feel free to explore the projects!
 
 ## 📂 Portfolio structure
 
+1. [**Jobs and Renewables Analysis**](https://github.com/alexandra-mihaescu/alexandra-data-portfolio/tree/main/jobs-renewables-analysis) <br>
+Econometric analysis of the relationship between renewable energy adoprion and employment in selected countries <br>
+*Tools: R, data cleaning, visualisation, statistics*
+   
 ---
 
 ##  🛠️ Tools and skills
