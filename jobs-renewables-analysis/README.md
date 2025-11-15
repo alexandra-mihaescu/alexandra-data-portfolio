@@ -5,13 +5,13 @@
 
 ## Table of Contents
 
-- [Prpject Overview] (## Project Overview)
-- [Data] (## Data)
-- [Methodology] (## Methodology)
-- [Descriptive statistics] (## Descriptive statistics)
-- [Results and Interpretation] (## Results and Interpretation)
-- [Limitations] (## Limitations)
-- [References] (## References)
+- [Project Overview](#project-overview)
+- [Data](#data)
+- [Methodology](#methodology)
+- [Descriptive statistics](#descriptive-statistics)
+- [Results and Interpretation](#results-and-interpretation)
+- [Limitations](#limitations)
+- [References](#references)
 
 ---
 
