@@ -23,9 +23,9 @@ For full details, refer to the PDF presentation and the .data and .mod files
 ---
 
 ## Repository Structure
-│
-├── [Progetto4.dat](https://github.com/alexandra-mihaescu/alexandra-data-portfolio/blob/main/logistic-optimization-problem/Progetto4.dat) : AMPL data file (parameters and input values)
-├── [Progetto4.mod](https://github.com/alexandra-mihaescu/alexandra-data-portfolio/blob/main/logistic-optimization-problem/Progetto4.mod) : AMPL model file (variables, constraints, objective function)
-├── [Progetto4.run](https://github.com/alexandra-mihaescu/alexandra-data-portfolio/blob/main/logistic-optimization-problem/Progetto4.run) : AMPL run script (load model/data, solve, display results)
-├── [Project_RO.pdf](https://github.com/alexandra-mihaescu/alexandra-data-portfolio/blob/main/logistic-optimization-problem/Project_RO.pdf) : Complete project report with methodology and results
+
+- [Progetto4.dat](https://github.com/alexandra-mihaescu/alexandra-data-portfolio/blob/main/logistic-optimization-problem/Progetto4.dat) : AMPL data file (parameters and input values)
+- [Progetto4.mod](https://github.com/alexandra-mihaescu/alexandra-data-portfolio/blob/main/logistic-optimization-problem/Progetto4.mod) : AMPL model file (variables, constraints, objective function)
+- [Progetto4.run](https://github.com/alexandra-mihaescu/alexandra-data-portfolio/blob/main/logistic-optimization-problem/Progetto4.run) : AMPL run script (load model/data, solve, display results)
+- [Project_RO.pdf](https://github.com/alexandra-mihaescu/alexandra-data-portfolio/blob/main/logistic-optimization-problem/Project_RO.pdf) : Complete project report with methodology and results
 
