@@ -22,8 +22,12 @@ Feel free to explore the projects!
 ## 📂 Portfolio structure
 
 1. [**Jobs and Renewables Analysis**](https://github.com/alexandra-mihaescu/alexandra-data-portfolio/tree/main/jobs-renewables-analysis) <br>
-Econometric analysis of the relationship between renewable energy adoprion and employment in selected countries <br>
+Econometric analysis of the relationship between renewable energy adoption and employment in selected countries <br>
 *Tools: R, data cleaning, visualisation, statistics*
+
+2. [**Logistics Oprimization Problem**](https://github.com/alexandra-mihaescu/alexandra-data-portfolio/tree/main/logistic-optimization-problem) <br>
+Optimization problem for cost-efficient logistics network design <br>
+*Tools: AMPL, mathematical modelling*
    
 ---
 
